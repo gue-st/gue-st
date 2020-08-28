@@ -1,0 +1,32 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+  margin: 40px;
+  background-color: #fff;
+}
+
+.title {
+  font-family: 'Fredoka One';
+  border-radius: 15px;
+  background-color: #17224b;
+  color: #fff;
+  padding: 5px 10px 15px 13px;
+  height: 50px;
+  width: 130px;
+}
+
+.gue {
+  font-size: 50px;
+  float: left;
+}
+
+.st {
+  font-size: 25px;
+  float: left;
+  margin: 5px;
+}
+
+.dot {
+  margin-top: -10px;
+}
