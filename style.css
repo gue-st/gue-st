@@ -23,27 +23,6 @@ hr {
   border-radius: 4px;
   white-space: nowrap;
 }
-.title {
-  font-family: 'Fredoka One', cursive;
-  border-radius: 15px;
-  background-color: #17224b;
-  color: #fff;
-  padding: 5px 10px 15px 13px;
-  height: 50px;
-  width: 130px;
-}
-.gue {
-  font-size: 50px;
-  float: left;
-}
-.st {
-  font-size: 25px;
-  float: left;
-  margin: 5px;
-}
-.dot {
-  margin-top: -10px;
-}
 .subtitle {
   font-family: 'Fredoka One', cursive;
   margin-top: 10px;
